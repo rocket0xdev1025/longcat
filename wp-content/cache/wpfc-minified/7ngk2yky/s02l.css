@@ -1,15 +1,15 @@
 @font-face {
   font-family: eicons;
-  src: url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0);
-  src: url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0#iefix)
+  src: url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0);
+  src: url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0#iefix)
       format("embedded-opentype"),
-    url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0)
+    url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0)
       format("woff2"),
-    url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0)
+    url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0)
       format("woff"),
-    url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0)
+    url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0)
       format("truetype"),
-    url(//longcat.meme/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0#eicon)
+    url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0#eicon)
       format("svg");
   font-weight: 400;
   font-style: normal;
